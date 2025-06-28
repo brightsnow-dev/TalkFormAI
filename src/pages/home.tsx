@@ -1,4 +1,5 @@
 import Page from '@/components/layout/Page';
+
 import DashboardMode from '@/components/home/DashboardMode';
 import { getUserFromSupabase } from '@/utils';
 import { createClientComponentClient } from '@supabase/auth-helpers-nextjs';
